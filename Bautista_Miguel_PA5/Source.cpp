@@ -2,7 +2,7 @@
 //CISP 1010-W01
 //Programming Assignment 5
 //27 October 2025
-//Description: 
+//Description: Modularized code for programming assignment 3
 #include <iostream>
 #include <iomanip>
 

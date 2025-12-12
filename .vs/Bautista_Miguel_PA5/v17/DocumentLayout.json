@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +24,7 @@
               "RelativeDocumentMoniker": "Bautista_Miguel_PA5\\Source.cpp",
               "ToolTip": "C:\\Users\\trash\\source\\repos\\Bautista_Miguel_PA5\\Bautista_Miguel_PA5\\Source.cpp",
               "RelativeToolTip": "Bautista_Miguel_PA5\\Source.cpp",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAACoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-28T18:30:41.599Z",
               "EditorCaption": ""

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\trash\\OneDrive\\Compuer-Science\\Bautista_Miguel_PA5\\",
+  "WorkspaceRootPath": "C:\\Users\\trash\\source\\repos\\Bautista_Miguel_PA5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF699953-137F-4EC3-9394-78022EE99F71}|Bautista_Miguel_PA5\\Bautista_Miguel_PA5.vcxproj|C:\\Users\\trash\\OneDrive\\Compuer-Science\\Bautista_Miguel_PA5\\Bautista_Miguel_PA5\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EF699953-137F-4EC3-9394-78022EE99F71}|Bautista_Miguel_PA5\\Bautista_Miguel_PA5.vcxproj|C:\\Users\\trash\\source\\repos\\Bautista_Miguel_PA5\\Bautista_Miguel_PA5\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EF699953-137F-4EC3-9394-78022EE99F71}|Bautista_Miguel_PA5\\Bautista_Miguel_PA5.vcxproj|solutionrelative:Bautista_Miguel_PA5\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\trash\\OneDrive\\Compuer-Science\\Bautista_Miguel_PA5\\Bautista_Miguel_PA5\\Source.cpp",
+              "DocumentMoniker": "C:\\Users\\trash\\source\\repos\\Bautista_Miguel_PA5\\Bautista_Miguel_PA5\\Source.cpp",
               "RelativeDocumentMoniker": "Bautista_Miguel_PA5\\Source.cpp",
-              "ToolTip": "C:\\Users\\trash\\OneDrive\\Compuer-Science\\Bautista_Miguel_PA5\\Bautista_Miguel_PA5\\Source.cpp",
+              "ToolTip": "C:\\Users\\trash\\source\\repos\\Bautista_Miguel_PA5\\Bautista_Miguel_PA5\\Source.cpp",
               "RelativeToolTip": "Bautista_Miguel_PA5\\Source.cpp",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAACoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-28T18:30:41.599Z",
               "EditorCaption": ""
